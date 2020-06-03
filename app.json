@@ -1,0 +1,6 @@
+{
+  "name": "MPGS xfame options example",
+  "description": "An example of how to use xFrame options header with MPGS in PHP",
+  "repository": "https://github.com/roryTyro/php-getting-started",
+  "addons": []
+}
